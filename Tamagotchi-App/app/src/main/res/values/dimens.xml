@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bluetooth_icon_size">65sp</dimen>
+    <dimen name="title_text_size">24sp</dimen>
+    <dimen name="secondary_text_size">18sp</dimen>
+    <dimen name="button_padding">10sp</dimen>
+    <dimen name="bar_padding">15sp</dimen>
+    <dimen name="corner_radius">15sp</dimen>
+    <dimen name="btn_height">32sp</dimen>
+</resources>
